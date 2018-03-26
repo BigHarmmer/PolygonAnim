@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gradient_color_from">#FF3079</color>
+    <color name="gradient_color_to">#45B4FF</color>
+</resources>
